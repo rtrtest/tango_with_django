@@ -1,12 +1,47 @@
 -- VERSION_4
 -- START DISKCACHE
 /Users/rettinor/Google Drive.work/github/.metadata/.plugins/org.eclipse.core.resources/.projects/tango_with_django/com.python.pydev.analysis/v2_indexcache
+tango_with_django.settings|1431031593000|/Users/rettinor/Google Drive.work/github/tango_with_django/tango_with_django/settings.py
+rango.__init__|1431027545000|/Users/rettinor/Google Drive.work/github/tango_with_django/rango/__init__.py
+rango.urls|1431111261000|/Users/rettinor/Google Drive.work/github/tango_with_django/rango/urls.py
+rango.views|1431029251000|/Users/rettinor/Google Drive.work/github/tango_with_django/rango/views.py
+rango.tests|1431027545000|/Users/rettinor/Google Drive.work/github/tango_with_django/rango/tests.py
+rango.admin|1431027545000|/Users/rettinor/Google Drive.work/github/tango_with_django/rango/admin.py
+manage|1431011975000|/Users/rettinor/Google Drive.work/github/tango_with_django/manage.py
+tango_with_django.urls|1431111702000|/Users/rettinor/Google Drive.work/github/tango_with_django/tango_with_django/urls.py
+tango_with_django.wsgi|1431011975000|/Users/rettinor/Google Drive.work/github/tango_with_django/tango_with_django/wsgi.py
+rango.models|1431027545000|/Users/rettinor/Google Drive.work/github/tango_with_django/rango/models.py
+tango_with_django.__init__|1431011975000|/Users/rettinor/Google Drive.work/github/tango_with_django/tango_with_django/__init__.py
+rango.migrations.__init__|1431027545000|/Users/rettinor/Google Drive.work/github/tango_with_django/rango/migrations/__init__.py
 -- END DISKCACHE
 -- START DICTIONARY
-0
+5
+3=tango_with_django.wsgi
+2=tango_with_django.settings
+4=rango.urls
+1=rango.views
+5=tango_with_django.urls
 -- END DICTIONARY
 -- START TREE 1
-0
+18
+abo|1|about!10@
+all|1|ALLOWED_HOSTS!19@
+app|1|application!27@
+bas|1|BASE_DIR!19@
+dat|1|DATABASES!19@
+deb|1|DEBUG!19@
+ind|1|index!10@
+ins|1|INSTALLED_APPS!19@
+lan|1|LANGUAGE_CODE!19@
+mid|1|MIDDLEWARE_CLASSES!19@
+roo|1|ROOT_URLCONF!19@
+sec|1|SECRET_KEY!19@
+sta|1|STATIC_URL!19@
+tem|3|TEMPLATE_PATH!19@TEMPLATES!19@TEMPLATE_DIRS!19@
+tim|1|TIME_ZONE!19@
+url|2|urlpatterns!35@urlpatterns!43@
+use|3|USE_I18N!19@USE_TZ!19@USE_L10N!19@
+wsg|1|WSGI_APPLICATION!19@
 -- END TREE
 -- START TREE 2
 0

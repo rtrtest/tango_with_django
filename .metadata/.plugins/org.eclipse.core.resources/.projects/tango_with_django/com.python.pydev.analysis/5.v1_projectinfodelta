@@ -1,5 +1,6 @@
-INSTUPtango_with_django.wsgi
-/Users/rettinor/Google Drive.work/github/tango_with_django/tango_with_django/wsgi.py
-INFOS:&&3|1|2|0
-tango_with_django.wsgi=2
-application=1
+INSTUPrango.views
+/Users/rettinor/Google Drive.work/github/tango_with_django/rango/views.py
+INFOS:&&2|1|2|0&&2|3|2|0
+about=3
+index=1
+rango.views=2

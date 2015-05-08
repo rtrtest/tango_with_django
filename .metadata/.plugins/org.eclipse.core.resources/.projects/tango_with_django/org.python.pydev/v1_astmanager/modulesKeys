@@ -1,5 +1,18 @@
 MODULES_MANAGER_V2
 manage|/Users/rettinor/Google Drive.work/github/tango_with_django/manage.py
+mysite.__init__|/Users/rettinor/Google Drive.work/github/tango_with_django/mysite/__init__.py
+mysite.admin|/Users/rettinor/Google Drive.work/github/tango_with_django/mysite/admin.py
+mysite.migrations.__init__|/Users/rettinor/Google Drive.work/github/tango_with_django/mysite/migrations/__init__.py
+mysite.models|/Users/rettinor/Google Drive.work/github/tango_with_django/mysite/models.py
+mysite.tests|/Users/rettinor/Google Drive.work/github/tango_with_django/mysite/tests.py
+mysite.views|/Users/rettinor/Google Drive.work/github/tango_with_django/mysite/views.py
+rango.__init__|/Users/rettinor/Google Drive.work/github/tango_with_django/rango/__init__.py
+rango.admin|/Users/rettinor/Google Drive.work/github/tango_with_django/rango/admin.py
+rango.migrations.__init__|/Users/rettinor/Google Drive.work/github/tango_with_django/rango/migrations/__init__.py
+rango.models|/Users/rettinor/Google Drive.work/github/tango_with_django/rango/models.py
+rango.tests|/Users/rettinor/Google Drive.work/github/tango_with_django/rango/tests.py
+rango.urls|/Users/rettinor/Google Drive.work/github/tango_with_django/rango/urls.py
+rango.views|/Users/rettinor/Google Drive.work/github/tango_with_django/rango/views.py
 tango_with_django.__init__|/Users/rettinor/Google Drive.work/github/tango_with_django/tango_with_django/__init__.py
 tango_with_django.settings|/Users/rettinor/Google Drive.work/github/tango_with_django/tango_with_django/settings.py
 tango_with_django.urls|/Users/rettinor/Google Drive.work/github/tango_with_django/tango_with_django/urls.py
